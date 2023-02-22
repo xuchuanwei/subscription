@@ -8,11 +8,11 @@
         <version>2.7.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>test</artifactId>
+    <groupId>org.oldfish</groupId>
+    <artifactId>subscription</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>test</name>
-    <description>test</description>
+    <name>subscription</name>
+    <description>subscription</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
