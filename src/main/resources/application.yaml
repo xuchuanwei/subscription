@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: laoyu
+    password: xuchuanwei
+    url: jdbc:mysql://101.35.145.100:3306/subscription?useUnicode=true&characterEncoding=utf8
